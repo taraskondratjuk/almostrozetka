@@ -1,0 +1,26 @@
+.main{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.input-group{
+    width: 44%;
+    margin-left: 2%;
+
+}
+
+.form-control{
+    height: 44px;
+}
+
+
+.bodyItem{
+    display: flex;
+}
+
+@media (max-width: 1120px) {
+    .input-group {
+        margin-top: 10px;
+    }
+}
